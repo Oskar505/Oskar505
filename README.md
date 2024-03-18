@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oskar505
-- 👀 I’m interested in python, web, flutter and arduino
+- 👀 I’m interested in python, web development, flutter and arduino
 - 🌱 I’m currently learning flutter and dart
 
 <!---
